@@ -18,7 +18,7 @@ This key-value store which highly inspired by the Casandra key-value store has t
 * Stabilization after failure 
   * recreate three replicas after failure
 
-This implementation includes membership protocol in which I previously implemented `Gossip Membership` in [this](https://github.com/gsoosk/Gossip-Membership-Protocol) repository. 
+This implementation includes membership protocol in which I implemented in [my Gossip Membership](https://github.com/gsoosk/Gossip-Membership-Protocol) repository before. 
 
 
 ## Skeleton
