@@ -1,5 +1,5 @@
 # Key Vaue Store
-This repository contains a full implementation of key value store for [Cloud Computing Concepts:Part 2](https://www.coursera.org/learn/cloud-computing-2) computer assignment. This implemnation includes a three layer archituctre as shown bellow. 
+This repository contains a full implementation of a key value store for [Cloud Computing Concepts:Part 2](https://www.coursera.org/learn/cloud-computing-2) computer assignment. This implemnation includes a three layer archituctre as shown bellow. 
 
 <img src="./images/3layer.png" width=600>
 
